@@ -1,0 +1,40 @@
+
+œ
+java:S2293<"YReplace the type specification in this constructor call with the diamond operator ("<>").(Şä¾‘8»ó¶˜2J$b6f67235-5a08-4fe5-84eb-95e766054d22
+œ
+java:S2293N"YReplace the type specification in this constructor call with the diamond operator ("<>").(Şä¾‘8¼ó¶˜2J$2a9de2c9-0022-4ba5-9a7e-8aa2c2176bd5
+¡
+java:S2293b"YReplace the type specification in this constructor call with the diamond operator ("<>").(’Úâ¬ùÿÿÿÿ8¼ó¶˜2J$9a2c0c6d-b2c9-4c53-b6db-03f1918edf34
+¡
+java:S2293v"YReplace the type specification in this constructor call with the diamond operator ("<>").(’Úâ¬ùÿÿÿÿ8¼ó¶˜2J$abd260d2-6b15-4560-ae87-9ed71487bce7
+Ÿ
+java:S1192 "[Define a constant instead of duplicating this literal "The requested book can not" 3 times.(ş¤Œ¨8¾ó¶˜2J$50c33173-4df6-48b2-83fb-f02c8fb450f3
+
+java:S1192"YDefine a constant instead of duplicating this literal "No book found with ID:: " 5 times.(àéÚİ8¾ó¶˜2J$c841b6ef-deeb-4f28-a8ee-4dc022b8d58c
+
+java:S11927"LDefine a constant instead of duplicating this literal "createdDate" 4 times.(Ê™¼8¾ó¶˜2J$8d678256-7f6c-47a7-9191-f9f76bf29251
+½
+java:S6204;"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8¯ŞÏÜƒ2J$6d3c1736-b455-41b6-ad64-50b7b99a20f6
+½
+java:S6204M"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8ÃŞÏÜƒ2J$de1f0b0a-941a-4d4e-abde-9f1f9ddc936e
+½
+java:S6204a"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8ÌŞÏÜƒ2J$c64b8d1c-773b-40a7-8d87-b683b1d4045d
+½
+java:S6204u"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8×ŞÏÜƒ2J$3b9004d3-3f7b-4dd4-a8d6-9bf213797f07
+‡
+java:S1128	"DRemove this unused import 'io.swagger.v3.oas.annotations.Parameter'.(ñÕ¶€8•ßÏÜƒ2J$7672eae0-d97e-480c-891d-340b88fe8782
+v
+java:S1128
+"3Remove this unused import 'jakarta.mail.Multipart'.(˜ÇİÁ8•ßÏÜƒ2J$6c52a183-44af-48af-8e2b-3608bd6e3783
+‡
+java:S1128"?Remove this unused import 'jakarta.mail.internet.MimeBodyPart'.(·§ûÿÿÿÿ8–ßÏÜƒ2J$dc785c50-e3e7-44a4-8898-c927b973a42c
+Œ
+java:S1128"DRemove this unused import 'org.springframework.http.ResponseEntity'.(¶¯ø¦úÿÿÿÿ8–ßÏÜƒ2J$c9f95f95-6589-4ebc-b9cb-c70a87bef25e
+™
+java:S1128"QRemove this unused import 'org.springframework.web.bind.annotation.PathVariable'.(¹ûñÅşÿÿÿÿ8–ßÏÜƒ2J$cd723821-82b0-4391-a04a-d258062f404b
+˜
+java:S1128"PRemove this unused import 'org.springframework.web.bind.annotation.PostMapping'.(äƒà°ùÿÿÿÿ8–ßÏÜƒ2J$23c063ae-6cac-4ef3-8c97-52cab46f2c46
+˜
+java:S1128"PRemove this unused import 'org.springframework.web.bind.annotation.RequestPart'.(æñ³şÿÿÿÿ8—ßÏÜƒ2J$480279ce-515f-4f49-81b7-027a58ddd806
+
+java:S1128"HRemove this unused import 'javax.naming.OperationNotSupportedException'.(Œõûÿÿÿÿÿ8—ßÏÜƒ2J$4d304c2b-a4c5-4055-a699-3f4fce3167d9

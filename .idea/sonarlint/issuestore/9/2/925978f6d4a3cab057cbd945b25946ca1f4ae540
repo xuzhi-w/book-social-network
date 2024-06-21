@@ -1,0 +1,7 @@
+
+š
+java:S4144R"WUpdate this method so that its implementation is not identical to "getName" on line 63.(ú´­÷8Ö†Ý§€2J$bdee326d-26d2-4444-bad1-63fef4a5dbe1
+j
+java:S1948/"'Make "roles" transient or serializable.(ÿÎÌ“8Ø†Ý§€2J$98a076a7-7771-41ef-b9e5-ed483337d83b
+½
+java:S6204I"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8ß†Ý§€2J$6256075c-9ddb-4fe0-96f8-bee6d53f60f8
